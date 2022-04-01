@@ -1,2 +1,3 @@
 # ANPR_MODEL
-autometic number plate detection model
+autometic number plate detection and recognition 
+model
